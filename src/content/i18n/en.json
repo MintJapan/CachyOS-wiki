@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "This page is outdated. Please refer to the latest documentation at {{url}}"
+  "banner.outdated": "This page is outdated. Please refer to the latest documentation at {{url}}",
+  "banner.translation.title": "Translation notice",
+  "banner.translation.line1": "This is a community-maintained translation. The English version is the authoritative source.",
+  "banner.translation.line2": "This page was translated using generative AI and may not yet have been reviewed by a native speaker.",
+  "banner.translation.line3": "Found an error? Please open an issue or submit a correction. Community contributions help us keep translations accurate and up to date."
 }

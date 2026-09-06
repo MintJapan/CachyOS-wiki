@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "Diese Seite ist veraltet. Bitte beachten Sie die neueste Dokumentation unter {{url}}"
+  "banner.outdated": "Diese Seite ist veraltet. Bitte beachten Sie die neueste Dokumentation unter {{url}}",
+  "banner.translation.title": "Übersetzungshinweis",
+  "banner.translation.line1": "Dies ist eine von der Community gepflegte Übersetzung. Die englische Version ist die maßgebliche Quelle.",
+  "banner.translation.line2": "Diese Seite wurde mit generativer KI übersetzt und wurde möglicherweise noch nicht von einer muttersprachlichen Person überprüft.",
+  "banner.translation.line3": "Fehler gefunden? Bitte öffne ein Issue oder reiche eine Korrektur ein. Beiträge aus der Community helfen uns, Übersetzungen korrekt und aktuell zu halten."
 }

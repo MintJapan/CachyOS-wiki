@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "このページの情報は古くなっています。{{url}} から最新の情報をご覧ください。"
+  "banner.outdated": "このページの情報は古くなっています。{{url}} から最新の情報をご覧ください。",
+  "banner.translation.title": "翻訳について",
+  "banner.translation.line1": "この CachyOS Wiki は有志による翻訳が行われています。正式なソースは英語版です。",
+  "banner.translation.line2": "またこのページは生成 AI を用いて翻訳されており、日本語話者による確認がまだ行われていない場合があります。",
+  "banner.translation.line3": "間違いを見つけた場合は、Issue や修正の投稿をお願いします。正確かつ最新の翻訳を実現するため、みなさまのご協力をお願いします。"
 }

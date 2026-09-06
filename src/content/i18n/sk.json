@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "Táto stránka je zastaraná. Najnovšiu dokumentáciu nájdete na {{url}}"
+  "banner.outdated": "Táto stránka je zastaraná. Najnovšiu dokumentáciu nájdete na {{url}}",
+  "banner.translation.title": "Poznámka k prekladu",
+  "banner.translation.line1": "Toto je preklad udržiavaný komunitou. Autoritatívnym zdrojom je anglická verzia.",
+  "banner.translation.line2": "Táto stránka bola preložená pomocou generatívnej umelej inteligencie a nemusela byť ešte skontrolovaná rodeným hovorcom.",
+  "banner.translation.line3": "Našli ste chybu? Otvorte issue alebo pošlite opravu. Príspevky komunity nám pomáhajú udržiavať preklady presné a aktuálne."
 }

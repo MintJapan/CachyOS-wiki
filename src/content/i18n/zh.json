@@ -1,0 +1,7 @@
+{
+  "banner.outdated": "此页面已过时。请在 {{url}} 查看最新文档",
+  "banner.translation.title": "翻译说明",
+  "banner.translation.line1": "这是由社区维护的翻译。英文版本为权威来源。",
+  "banner.translation.line2": "本页面使用生成式 AI 翻译，可能尚未经过母语人士审核。",
+  "banner.translation.line3": "发现错误？请新建 issue 或提交更正。社区贡献有助于我们保持翻译准确且处于最新状态。"
+}

@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "Cette page n'est pas à jour. Consultez la documentation à jour à l'adresse suivante {{url}}"
+  "banner.outdated": "Cette page n'est pas à jour. Consultez la documentation à jour à l'adresse suivante {{url}}",
+  "banner.translation.title": "Avis de traduction",
+  "banner.translation.line1": "Ceci est une traduction maintenue par la communauté. La version anglaise fait foi.",
+  "banner.translation.line2": "Cette page a été traduite à l'aide de l'IA générative et n'a peut-être pas encore été relue par un locuteur natif.",
+  "banner.translation.line3": "Vous avez trouvé une erreur ? Veuillez ouvrir une issue ou proposer une correction. Les contributions de la communauté nous aident à maintenir des traductions exactes et à jour."
 }

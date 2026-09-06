@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "Ta strona jest nieaktualna. Proszę zapoznać się z najnowszą dokumentacją dostępną pod adresem {{url}}"
+  "banner.outdated": "Ta strona jest nieaktualna. Proszę zapoznać się z najnowszą dokumentacją dostępną pod adresem {{url}}",
+  "banner.translation.title": "Informacja o tłumaczeniu",
+  "banner.translation.line1": "To jest tłumaczenie utrzymywane przez społeczność. Wersja angielska jest źródłem autorytatywnym.",
+  "banner.translation.line2": "Ta strona została przetłumaczona przy użyciu generatywnej sztucznej inteligencji i mogła jeszcze nie zostać sprawdzona przez native speakera.",
+  "banner.translation.line3": "Znaleziono błąd? Otwórz issue lub prześlij poprawkę. Wkład społeczności pomaga nam utrzymywać dokładne i aktualne tłumaczenia."
 }

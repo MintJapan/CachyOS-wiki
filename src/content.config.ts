@@ -17,6 +17,10 @@ export const collections = {
     schema: i18nSchema({
       extend: z.object({
         'banner.outdated': z.string().optional(),
+        'banner.translation.title': z.string().optional(),
+        'banner.translation.line1': z.string().optional(),
+        'banner.translation.line2': z.string().optional(),
+        'banner.translation.line3': z.string().optional(),
       }),
     }),
   }),

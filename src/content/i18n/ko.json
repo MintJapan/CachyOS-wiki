@@ -1,3 +1,7 @@
 {
-  "banner.outdated": "이 페이지는 최신 정보가 아닙니다. 최신 문서는 {{url}}에서 확인해 주세요."
+  "banner.outdated": "이 페이지는 최신 정보가 아닙니다. 최신 문서는 {{url}}에서 확인해 주세요.",
+  "banner.translation.title": "번역 안내",
+  "banner.translation.line1": "이 번역은 커뮤니티에서 관리합니다. 영어 버전이 공식 원본입니다.",
+  "banner.translation.line2": "이 페이지는 생성형 AI로 번역되었으며 아직 원어민이 검토하지 않았을 수 있습니다.",
+  "banner.translation.line3": "오류를 발견하셨나요? 이슈를 열거나 수정 사항을 제출해 주세요. 커뮤니티 기여를 통해 번역을 정확하고 최신 상태로 유지할 수 있습니다."
 }
